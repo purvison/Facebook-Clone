@@ -1,0 +1,505 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+}
+.navdiv {
+  background-color: rgb(247, 235, 235);
+
+  width: 100%;
+  height: 90px;
+}
+.navbar {
+  display: flex;
+  list-style: none;
+  padding: 30px;
+}
+
+.fa-facebook {
+  font-size: 50px;
+  top: 10px;
+  color: blue;
+}
+.navsearch {
+  height: 50px;
+  width: 250px;
+  border-radius: 20px;
+  text-align: center;
+  top: 20px;
+}
+.fa-magnifying-glass {
+  font-size: 30px;
+}
+.fa-house {
+  font-size: 30px;
+  position: relative;
+  left: 180px;
+  
+}
+.fa-tv {
+  font-size: 30px;
+  position: relative;
+  left: 200px;
+}
+.fa-shop {
+  font-size: 30px;
+  position: relative;
+  left: 220px;
+}
+.fa-address-book {
+  font-size: 30px;
+  position: relative;
+  left: 240px;
+}
+.fa-gamepad {
+  font-size: 30px;
+  position: relative;
+  left: 260px;
+}
+.fa-icons {
+  font-size: 30px;
+  position: relative;
+  left: 500px;
+}
+.fa-facebook-messenger {
+  font-size: 30px;
+  position: relative;
+  left: 520px;
+}
+.fa-bell {
+  font-size: 30px;
+  position: relative;
+  left: 540px;
+}
+.main {
+  display: flex;
+}
+.div1 {
+  position: relative;
+  top: -24px;
+  height: 100px;
+  width: 100px;
+  height: 5000px;
+  width: 20%;
+  margin: 25px;
+  background-color: rgb(167, 167, 240);
+}
+
+.fa-user-group {
+  position: absolute;
+  top: 149px;
+  font-size: 30px;
+  left: 35px;
+}
+.frnd {
+  font-size: 30px;
+  position: relative;
+  top: 147px;
+  left: 114px;
+}
+
+.fa-clock {
+  position: absolute;
+  top: 200px;
+  font-size: 30px;
+  left: 35px;
+}
+.memory {
+  font-size: 30px;
+  position: relative;
+  top: 198px;
+  left: 20px;
+}
+.fa-bookmark {
+  position: absolute;
+  top: 254px;
+  font-size: 30px;
+  left: 38px;
+}
+.save {
+  font-size: 30px;
+  position: relative;
+  top: 213px;
+  left: 116px;
+}
+.fa-gift {
+  position: absolute;
+  top: 311px;
+  font-size: 30px;
+  left: 35px;
+}
+.brth {
+  font-size: 30px;
+  position: relative;
+  top: 273px;
+  left: 41px;
+}
+.fa-calendar-days {
+  position: absolute;
+  top: 368px;
+  font-size: 30px;
+  left: 38px;
+}
+.events {
+  font-size: 30px;
+  position: absolute;
+  top: 367px;
+  left: 119px;
+}
+.fa-flag {
+  position: absolute;
+  top: 424px;
+  font-size: 30px;
+  left: 39px;
+}
+.pages {
+  font-size: 30px;
+  position: relative;
+  top: 388px;
+  left: -79px;
+}
+.fa-signal-messenger {
+  position: absolute;
+  top: 481px;
+  font-size: 30px;
+  left: 37px;
+}
+.msgkids {
+  font-size: 30px;
+  position: relative;
+  top: 410px;
+  left: 117px;
+}
+.prf {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+.prf2 {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  position: absolute;
+  left: 89%;
+  top: 20px;
+}
+
+.div2 {
+  height: 5000px;
+  width: 50%;
+  margin: 25px;
+  background-color: rgb(167, 167, 240);
+  position: relative;
+  top: -24px;
+}
+.div3 {
+  position: relative;
+  top: -24px;
+  height: 100px;
+  width: 100px;
+  height: 5000px;
+  width: 20%;
+  margin: 25px;
+  background-color: rgb(255, 146, 127);
+}
+.logo {
+  height: 100px;
+  width: 100px;
+  border-radius: 60px;
+  margin: 0px;
+  padding: 0px;
+}
+.account {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  background-color: brown;
+  position: relative;
+  left: 25px;
+  top: 4px;
+}
+.sar {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  position: relative;
+  left: 0px;
+  top: 0px;
+}
+.grey {
+  height: 150px;
+  width: 720px;
+  background-color: grey;
+  border-radius: 20px;
+  top: 11px;
+  position: relative;
+}
+.mind {
+  height: 50px;
+  width: 587px;
+  border-radius: 20px;
+  text-align: center;
+  position: relative;
+  left: 100px;
+  top: -55px;
+  border: 2px solid black;
+}
+.icons {
+  position: relative;
+}
+.fa-video {
+  font-size: 50px;
+  top: -53px;
+  left: 100px;
+  position: relative;
+}
+.fa-photo-film {
+  position: relative;
+  font-size: 50px;
+  left: 267px;
+  top: -53px;
+}
+.fa-face-smile {
+  position: relative;
+  font-size: 50px;
+  top: -53px;
+  left: 440px;
+}
+.reels {
+  height: 300px;
+  width: 1280;
+  position: flex;
+  top: -15px;
+  background-color: antiquewhite;
+}
+.reel1 {
+  height: 270px;
+  width: 140px;
+  background-color: aqua;
+  position: relative;
+  left: 19px;
+  top: 14px;
+  border-radius: 20px;
+}
+.reel1img {
+  height: 270px;
+  width: 140px;
+  border-radius: 20px;
+}
+.reel2 {
+  height: 270px;
+  width: 140px;
+  background-color: aqua;
+  position: relative;
+  left: 200px;
+  top: -254px;
+  border-radius: 20px;
+}
+.reel2img {
+  height: 270px;
+  width: 140px;
+  border-radius: 20px;
+}
+
+.reel3 {
+  height: 270px;
+  width: 140px;
+  background-color: aqua;
+  position: relative;
+  left: 377px;
+  top: -524px;
+  border-radius: 20px;
+}
+.reel3img {
+  height: 270px;
+  width: 140px;
+  border-radius: 20px;
+}
+.reel4 {
+  height: 270px;
+  width: 140px;
+  background-color: aqua;
+  position: relative;
+  left: 550px;
+  top: -794px;
+  border-radius: 20px;
+}
+.reel4img {
+  height: 270px;
+  width: 140px;
+  border-radius: 20px;
+}
+.post1 {
+  background-color: blue;
+  height: 500px;
+  width: 100%;
+  position: absolute;
+  border-radius: 10px;
+  top: 512px;
+}
+.post1img {
+  height: 500px;
+  width: 750px;
+}
+.post1like {
+  font-size: 30px;
+  position: absolute;
+  top: 452px;
+  left: 66px;
+}
+.fa-thumbs-up {
+  font-size: 30px;
+  position: absolute;
+  top: 450px;
+  left: 30px;
+}
+.fa-comment {
+  font-size: 30px;
+  position: absolute;
+  top: 455px;
+  left: 245px;
+}
+.post1comment {
+  font-size: 30px;
+  position: absolute;
+  top: 452px;
+  left: 289px;
+}
+.fa-share {
+  font-size: 30px;
+  position: absolute;
+  top: 455px;
+  left: 500px;
+}
+.post1share {
+  font-size: 30px;
+  position: absolute;
+  top: 452px;
+  left: 550px;
+}
+.fa-spotify {
+  font-size: 60px;
+  position: absolute;
+  top: 17px;
+  left: 26px;
+  color: green;
+}
+.spotify {
+  font-size: 30px;
+  position: absolute;
+  top: 25px;
+  left: 95px;
+  color: green;
+}
+.post1min {
+  font-size: 10px;
+  position: absolute;
+  top: 60px;
+  left: 100px;
+  color: black;
+}
+
+.post2 {
+  background-color: white;
+  height: 500px;
+  width: 100%;
+  position: absolute;
+  border-radius: 10px;
+  top: 1030px;
+}
+.bmwlogo {
+  height: 70px;
+  width: 70px;
+  position: absolute;
+  top: 5px;
+  left: 22px;
+  color: green;
+  border-radius: 50px;
+}
+.logotext {
+  font-size: 30px;
+  position: absolute;
+  top: 25px;
+  left: 95px;
+  color: black;
+}
+.post3 {
+  background-color: brown;
+  height: 500px;
+  width: 100%;
+  position: absolute;
+  border-radius: 10px;
+  top: 1551px;
+}
+.post3img {
+  height: 500px;
+  width: 750px;
+}
+.cnt {
+  position: relative;
+  font-size: 50px;
+  text-align: center;
+}
+.bmwcntimg {
+  height: 50px;
+  position: relative;
+  width: 50px;
+  left: 10px;
+  top: 15px;
+  border-radius: 50px;
+}
+.bmwcnt {
+  font-size: 30px;
+  position: absolute;
+  color: black;
+  top: 69px;
+  left: 100px;
+}
+.marvelcntimg {
+  height: 50px;
+  position: relative;
+  width: 50px;
+  left: -42px;
+  top: 110px;
+  border-radius: 50px;
+}
+.marvelcnt {
+  font-size: 30px;
+  position: absolute;
+  color: black;
+  top: 180px;
+  left: 100px;
+}
+.spotifycntimg {
+  height: 50px;
+  position: relative;
+  width: 50px;
+  left: -95px;
+  top: 212px;
+  border-radius: 50px;
+}
+.spotifycnt {
+  font-size: 30px;
+  position: absolute;
+  color: black;
+  top: 277px;
+  left: 100px;
+}
+.tonycntimg {
+  height: 50px;
+  position: relative;
+  width: 50px;
+  left: -143px;
+  top: 320px;
+  border-radius: 50px;
+}
+.tonycnt {
+  font-size: 30px;
+  position: absolute;
+  color: black;
+  top: 387px;
+  left: 100px;
+}
